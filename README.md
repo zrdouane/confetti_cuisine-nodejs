@@ -32,11 +32,10 @@ I’ll start a new application from scratch and add three views, routes for the 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |____ people.jpg  
 | &nbsp; | &nbsp; | &nbsp; |____ js  
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |____ confetti_cuisine.js  
-| &nbsp; | &nbsp; |____ package.json
-| &nbsp; | &nbsp; |____ package-lock.json
+| &nbsp; | &nbsp; |____ package.json  
 | &nbsp; | &nbsp; |____ views  
 | &nbsp; | &nbsp; | &nbsp; |____ index.html  
 | &nbsp; | &nbsp; | &nbsp; |____ contact.html  
 | &nbsp; | &nbsp; | &nbsp; |____ courses.html  
-| &nbsp; | &nbsp; | &nbsp; |____ thanks.html
+| &nbsp; | &nbsp; | &nbsp; |____ thanks.html  
 | &nbsp; | &nbsp; | &nbsp; |____ error.html
